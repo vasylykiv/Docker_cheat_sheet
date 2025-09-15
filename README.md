@@ -72,16 +72,16 @@
 
 -   **Запустити контейнери в фоновому режимі:**
     
-    `docker-compose up -d` 
+    `docker compose up -d` 
     
 -   **Зупинити та видалити контейнери:**
     
-    `docker-compose down` 
+    `docker compose down` 
     
 -   **Переглянути логи контейнерів:**
     
-    `docker-compose logs` 
+    `docker compose logs` 
     
 -   **Перевірити статус контейнерів:**
     
-    `docker-compose ps`
+    `docker compose ps`
